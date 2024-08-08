@@ -1,4 +1,4 @@
-# Python3
+# Python IP Range Ping Scanner
 1. This is python script to scan range of IP addresses in your local network.
 2. To chanage IP range and customise as per your needs edit line 19 at ip = ~~"192.168.0."~~ + str(target) to ip = "**Your start IP of your ip range**" + str(target)
 
