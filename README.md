@@ -6,5 +6,5 @@
 1. Save the python script in you computer with .py extention or download it to your local directory<br>
 2. Open command prompt as administrator rights<br>
 3. Navigate to the saved/downloaded .py file directory<br>
-3. Enter command **Python3 aliveIP.py** <--(File name)<br>
+3. Enter command <b>Python3 aliveIP.py</b> (File name)<br>
 
